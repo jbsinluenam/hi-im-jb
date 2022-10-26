@@ -290,7 +290,7 @@ header {
   padding-right: 2rem;
 }
 
-/* experience section */
+/********** experience section **********/
 .brand-grid {
   padding: 1rem 2rem 2rem;
   display: grid;
@@ -301,6 +301,13 @@ header {
 
 .brand-item {
   justify-self: center;
+}
+
+.langara {
+  padding-top: 10px;
+  font-weight: bold;
+  font-size: 1.8rem;
+  color: #f15922;
 }
 
 /********** skill section **********/
